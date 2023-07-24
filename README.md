@@ -27,5 +27,9 @@ int senVal1 = 0;
 int senVal2 = 0;
 `
 
+#Image 
+
+![Circuit](https://raw.githubusercontent.com/Fangzzxx/Automated-Toll-Collection-System/main/WhatsApp%20Image%202023-07-24%20at%2023.41.58.jpg)
+
  
 
