@@ -25,9 +25,7 @@ int servoPos = 0;
  
 int senVal1 = 0;
 int senVal2 = 0;
- 
-#define RST_PIN 8
-#define SS_PIN 10
- 
-int card1Balance = 900;
 `
+
+ 
+
