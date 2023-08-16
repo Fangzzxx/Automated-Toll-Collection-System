@@ -6,7 +6,7 @@ This project is a demo of a **Smart Toll Tax Collection System**. Consider there
 
 ## Flow Chart
 <p align="center" width="100%">
-<img src = "https://github.com/Fangzzxx/Automated-Toll-Collection-System/blob/main/Flow%20Chart.jpg" width = "60%" height = "60%" />
+<img src = "https://github.com/Fangzzxx/Automated-Toll-Collection-System/blob/main/Flow%20Chart.jpg" width = "40%" height = "40%" />
 </p>
 
 
