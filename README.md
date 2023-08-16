@@ -15,7 +15,7 @@ The toll gate is fitted to the Servo Motor where the spindle of the motor rotate
 
 ## Circuit Diagram
 <p align="center" width="100%">
-<img src = "https://github.com/Fangzzxx/Automated-Toll-Collection-System/blob/main/Circuit%20Pin%20Diagram.jpg" width = "40%" height = "40%" />
+<img src = "https://github.com/Fangzzxx/Automated-Toll-Collection-System/blob/main/Circuit%20Pin%20Diagram.jpg" width = "70%" height = "70%" />
 </p>
 
 
